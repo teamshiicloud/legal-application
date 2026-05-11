@@ -133,4 +133,4 @@ These terms are governed by the laws of the jurisdiction where Mercury Labs Stud
 ### CONTACT US
 For data requests, support, or legal inquiries:  
 📧 **teams.hi@icloud.com**  
-🌐 **mercurylearn.app**
+
