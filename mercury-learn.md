@@ -7,7 +7,7 @@
 
 ---
 
-## 🇺🇸 ENGLISH (Comprehensive Version)
+## 🇺🇸 ENGLISH
 
 This document outlines how **MercuryLearn** ("the App", "we", "us") handles your data and the rules governing your use of our services. By using MercuryLearn, you agree to the practices and terms described herein.
 
