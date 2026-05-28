@@ -198,7 +198,7 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 If you have any questions about these Terms of Service, please contact us at:
 
-**Email:** support@penaltykingfc.app
+**Email:** teams.hi@icloud.com
 **App:** PenaltyKing – World Cup 2026
 **Package:** com.penaltyking.app
 
